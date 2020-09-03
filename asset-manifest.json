@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.e98d179b.chunk.css",
-    "main.js": "/static/js/main.31c83d1c.chunk.js",
-    "main.js.map": "/static/js/main.31c83d1c.chunk.js.map",
+    "main.css": "/static/css/main.01858851.chunk.css",
+    "main.js": "/static/js/main.cd271726.chunk.js",
+    "main.js.map": "/static/js/main.cd271726.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c8a21426.js",
     "runtime-main.js.map": "/static/js/runtime-main.c8a21426.js.map",
     "static/css/2.8c03b716.chunk.css": "/static/css/2.8c03b716.chunk.css",
-    "static/js/2.eacca7d8.chunk.js": "/static/js/2.eacca7d8.chunk.js",
-    "static/js/2.eacca7d8.chunk.js.map": "/static/js/2.eacca7d8.chunk.js.map",
+    "static/js/2.627822ab.chunk.js": "/static/js/2.627822ab.chunk.js",
+    "static/js/2.627822ab.chunk.js.map": "/static/js/2.627822ab.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.97500df364a8dc6bb18d56783c7e6f94.js": "/precache-manifest.97500df364a8dc6bb18d56783c7e6f94.js",
+    "precache-manifest.881f6deb97d725895a322842ee29b9cc.js": "/precache-manifest.881f6deb97d725895a322842ee29b9cc.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.8c03b716.chunk.css.map": "/static/css/2.8c03b716.chunk.css.map",
-    "static/css/main.e98d179b.chunk.css.map": "/static/css/main.e98d179b.chunk.css.map",
-    "static/js/2.eacca7d8.chunk.js.LICENSE.txt": "/static/js/2.eacca7d8.chunk.js.LICENSE.txt",
+    "static/css/main.01858851.chunk.css.map": "/static/css/main.01858851.chunk.css.map",
+    "static/js/2.627822ab.chunk.js.LICENSE.txt": "/static/js/2.627822ab.chunk.js.LICENSE.txt",
     "static/media/Component 2 – 1.png": "/static/media/Component 2 – 1.c936a3d6.png",
     "static/media/Group-laughing.jpg": "/static/media/Group-laughing.ff0ca3f7.jpg",
     "static/media/arnav.png": "/static/media/arnav.a3eea3c3.png",
     "static/media/contact.css": "/static/media/contact.b9bd78f3.png",
+    "static/media/cover art.jpg": "/static/media/cover art.29a268b7.jpg",
     "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff",
     "static/media/insta logo.png": "/static/media/insta logo.31cf96ce.png",
     "static/media/logo.svg": "/static/media/logo.ee7cd8ed.svg",
@@ -31,8 +32,8 @@
   "entrypoints": [
     "static/js/runtime-main.c8a21426.js",
     "static/css/2.8c03b716.chunk.css",
-    "static/js/2.eacca7d8.chunk.js",
-    "static/css/main.e98d179b.chunk.css",
-    "static/js/main.31c83d1c.chunk.js"
+    "static/js/2.627822ab.chunk.js",
+    "static/css/main.01858851.chunk.css",
+    "static/js/main.cd271726.chunk.js"
   ]
 }
